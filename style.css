@@ -1,0 +1,9 @@
+.element {
+    background-color:lightblue;
+    color: #fff
+}
+.super {background-color: blueviolet;}
+
+.firstblock { margin-bottom: 50px; padding: 20px; border: 1px solid purple;}
+.secondblock {margin-bottom: 50px; border: 1px solid green; padding: 20px;}
+.thirdblock { border: 1px solid red; padding: 20px; }
